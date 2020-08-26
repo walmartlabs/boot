@@ -1,3 +1,11 @@
+***
+# NOTICE:
+
+## This repository has been archived and is not supported.
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+***
+
 # Boot [![Build Status](https://travis-ci.org/boot-clj/boot.svg?branch=master)](https://travis-ci.org/boot-clj/boot) [![Stories in Ready][waffle-badge]][waffle-board]
 
 [change log][changes] | [installation][4] | [getting started][start] | [documentation][wiki] | [API docs][api-docs]
